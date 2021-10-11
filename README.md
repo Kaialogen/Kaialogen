@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Kaialogen
+## 👋 Hi, I’m Kai Constantine
+
+---
+- 🎓 BSc Cyber Security Student at the University of Warwick.
 - 👀 I’m interested in cyber security and networking
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning Python and C
 - 📫 How to reach me: kaialogen@protonmail.com or Ka1al0gen#9626
+
+---
 
 <!---
 Kaialogen/Kaialogen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
