@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaialogen
 - 👀 I’m interested in cyber security and networking
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C
 - 📫 How to reach me: kaialogen@protonmail.com or Ka1al0gen#9626
 
 <!---
