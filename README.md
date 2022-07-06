@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Kai Constantine
+## 👋 Hi, I’m Kaialogen
 
 ---
 - 🎓 BSc Cyber Security Student at the University of Warwick.
