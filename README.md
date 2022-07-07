@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Python and C
 - 📫 How to reach me: kaialogen@protonmail.com or Ka1al0gen#9626
 
+test
+
 ---
 
 <!---
