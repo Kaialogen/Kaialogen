@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning Python and C
 - 📫 How to reach me: kaialogen@protonmail.com or Ka1al0gen#9626
 
-<a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaialogen&layout=compact&show_icons=true&theme=tokyonight" />
-</a> 
 
-<a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaialogen&layout=compact&show_icons=true&theme=tokyonight" />
+
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
+
 ---
 
 <!---
