@@ -10,6 +10,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaialogen&layout=compact&show_icons=true&theme=tokyonight" />
 </a> 
 
+<a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 ---
 
 <!---
