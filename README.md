@@ -7,7 +7,7 @@
 - 📫 How to reach me: kaialogen@protonmail.com or Ka1al0gen#9626
 
 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaialogen&layout=compact&show_icons=true&theme=tokyonight" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaialogen)](https://github.com/anuraghazra/github-readme-stats)
 
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/username=Kaialogen)](https://github.com/anuraghazra/github-readme-stats)
