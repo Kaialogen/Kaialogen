@@ -1,8 +1,4 @@
-## 👋 Hi, I’m Kaialogen
 
----
-- 🎓 BSc Cyber Security Student at the University of Warwick.
-- 👀 I’m interested in cyber security and networking
 
 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaialogen&show_icons=true&theme=synthwave)
