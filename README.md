@@ -1,7 +1,7 @@
 # Hi, I'm Kaialogen 👋  
 
 ## 🚀 About Me  
-I'm a **Front-End Web Developer** with a background in **Cybersecurity**, passionate about building secure, scalable, and user-friendly applications. I specialise in **JavaScript, React, and modern web technologies** to create intuitive web experiences.  
+I'm a **Software Enginerr** with a background in **Cybersecurity**, passionate about building secure, scalable, and user-friendly web applications. I specialise in **JavaScript, React, Node, and modern web technologies** to create intuitive web experiences.  
 
 </br>
 
