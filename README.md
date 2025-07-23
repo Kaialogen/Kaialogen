@@ -1,4 +1,4 @@
-# Hi, I'm Kaialogen 👋  
+# Hi, I'm Kai Constantine 👋  
 
 I'm a Software Engineer with a background in cybersecurity, passionate about building secure, scalable, and user-friendly web applications. I specialise in JavaScript, React, Node, and modern web technologies to create intuitive web experiences.  
 
