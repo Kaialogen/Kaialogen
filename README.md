@@ -2,6 +2,8 @@
 
 I'm a Software Engineer with a background in cybersecurity, passionate about building secure, scalable, and user-friendly web applications. I specialise in JavaScript, React, Node, and modern web technologies to create intuitive web experiences.  
 
+I'm currently on the look out for a role in backend web development, ideally writing JS, Python or Go. If you're hiring, let's chat!
+
 - 🎓 Graduate from the University of Warwick
 - 🔨 Building web apps, web servers, tools, and command-line utilities
 </br>
