@@ -4,6 +4,7 @@ I'm a Software Engineer with a background in cybersecurity, passionate about bui
 
 I'm currently on the look out for a role in backend web development (but open to frontend and fullstack development), ideally writing JS, TS or Python. If you're hiring, let's chat!
 
+- 🌍 I'm based in London, England
 - 🎓 Graduate from the University of Warwick
 - 🔨 Building web apps, web servers, tools, and command-line utilities
 </br>
