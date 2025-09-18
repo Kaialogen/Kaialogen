@@ -1,8 +1,8 @@
 # Hi, I'm Kai Constantine 👋  
 
-I'm a Software Engineer with a background in cybersecurity, passionate about building secure, scalable, and user-friendly web applications. I specialise in JavaScript, React, Node, and modern web technologies to create intuitive web experiences.  
+I'm a Software Engineer with a background in cybersecurity, passionate about building secure, scalable, and user-friendly web applications. I specialise in JavaScript, React, Next, Node, and modern web technologies to create intuitive web experiences.  
 
-I'm currently on the look out for a role in backend web development, ideally writing JS, Python or Go. If you're hiring, let's chat!
+I'm currently on the look out for a role in backend web development (but open to frontend and fullstack development), ideally writing JS, TS or Python. If you're hiring, let's chat!
 
 - 🎓 Graduate from the University of Warwick
 - 🔨 Building web apps, web servers, tools, and command-line utilities
@@ -23,6 +23,7 @@ I'm currently on the look out for a role in backend web development, ideally wri
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS3" /></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="30" height="30" alt="TailwindCSS" /></a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" /></a>
+        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="30" height="30" alt="NextJS" /></a>
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></a>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="30" height="30" alt="Express" /></a>
