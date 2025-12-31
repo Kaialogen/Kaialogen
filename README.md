@@ -39,7 +39,7 @@ I'm currently on the look out for a role in backend web development (but open to
 ### GitHub Stats
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-pied-sigma-70.vercel.app/api?username=Kaialogen&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="350" align="center" alt="Top Language" src="https:/github-readme-stats-pied-sigma-70.vercel.app/api/top-langs/?username=Kaialogen"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="350" align="center" alt="Top Language" src="https://github-readme-stats-pied-sigma-70.vercel.app/api/top-langs/?username=Kaialogen&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
 </div>
 
 </br>
